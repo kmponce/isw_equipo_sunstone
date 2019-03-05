@@ -1,1 +1,1 @@
-echo "# "
+isw_equipo_sunstone
